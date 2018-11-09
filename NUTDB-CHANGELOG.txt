@@ -1,0 +1,113 @@
+[NUTDB-CHANGELOG][v81][11.08.18][m22]
+
+A) Removed BASE titles that identify as a PHYSICAL GAME CARD:
+
+0100B1F00660E000|Axiom Verge
+01003C100655A000|Azure Striker Gunvolt  Striker Pack
+010060200A4BE000|Brawlout
+010083B00989C000|Darkest Dungeon Ancestral Edition
+01008A700989A000|Darkest Dungeon Ancestral Edition
+010035D00A190000|Dimension Drive
+0100FA000A1F4000|EXORDER
+01002C400B062000|GalGun 2
+0100CDD0077D8000|Mo Jie Zhan Ji deisugaia5
+0100B7F00BB54000|Mutant Mudds Collection
+0100E570094E8000|Owlboy
+0100721008D24000|Party Arcade
+0100B280067BE000|Penguin Wars
+01002ED00725A000|Poi Explorer Edition
+010086F0064CE000|Poi Explorer Edition
+0100E9B00A014000|Runbow
+0100D37009B8A000|Runbow Deluxe Edition
+0100119009094000|Runner3
+0100F8000A310000|Shaq Fu A Legend Reborn
+0100D8000B2EA000|Shelter Generations
+010048D000BFC000|Skylanders Imaginators
+0100CCC0002E6000|SKYLANDERS(r) IMAGINATORS
+0100BB100AF4C000|Slain Back From Hell
+0100562008698000|SteamWorld Dig 2
+0100629006000000|Stern Pinball Arcade
+0100AF8006AF2000|Stern Pinball Arcade
+0100F8A004458000|The Binding of Isaac Afterbirth+
+010029600AF50000|The Coma Recut
+0100AF2009B30000|Thimbleweed Park
+0100BCB00A47A000|Tiny Troopers Joint Ops XL
+0100BB400B276000|Victor Vran Overkill Edition
+0100B4700A47C000|Vostok Inc.
+01005A100B314000|Windstorm - The Game
+01001B7008EE8000|Wonder Boy The Dragon's Trap
+0100256006BF8000|Wonder Boy The Dragon's Trap
+010041200A40E000|Wonder Boy The Dragons Trap
+010045900ABB0000|Yonder The Cloud Catcher Chronicles
+
+B) Added/Replaced VERSION for UPD titles with the latest available VERSION: 
+
+0100C4E004406800|196608	 Adventure Time: Pirates of the Enchiridion
+01008D8006A6A800|393216	 Arena of Valor
+010090F00A76A800|327680  BLAZBLUE CROSS TAG BATTLE
+01005D200B530800|65536   Capcom Beat 'Em Up Bundle
+01002CC0062B8800|524288  DEEMO
+0100730007A9C800|196608  Detention
+0100FA800A1F4800|65536   EXORDER
+0100375009F80800|131072  Let's Sing 11
+0100953009DF8800|131072  Let's Sing 2019
+01003E6009F7E800|131072  Let's Sing 2019 Hits Français et Internationaux
+0100F5C009F82800|131072  Let's Sing 2019 mit deutschen Hits
+01002D70049CA800|131072  Machinarium
+0100770008DD8800|196608  Monster Hunter Generations Ultimate™
+0100ED100B634800|65536   Moorhuhn Wanted
+010039000B68E800|131072  MY HERO ONE'S JUSTICE
+01004040033CE800|458752  niconico
+01004040033CE800|262144	 Portal Knights
+010053000B986800|65536	 Road Redemption
+0100B16009C10800|65536	 SINNER: Sacrifice for Redemption
+01003BC0000A0800|1835008 Splatoon™ 2
+0100F8F0000A2800|1835008 Splatoon™ 2
+0100844004CB6800|196608	 State of Mind
+010056800B534800|65536	 Super Inefficient Golf
+010016A00AEC0800|196608	 WARRIORS OROCHI 4
+010048800B638800|65536	 Windjammers
+010096500C132800|65536	 おしゃべり！カケジョ！～奪われたドットコインを追え！～
+0100EC100A790800|196608	 サイヴァリア デルタ
+0100B27008170800|327680	 ジャンナビ麻雀オンライン
+01003C700009C800|1835008 スプラトゥーン2
+0100647003750800|2031616 ドラゴンクエストⅩ　ベーシックパック
+01008EA0080F6800|262144	 プロ野球 ファミスタ エボリューション
+0100C7300772E800|131072	 ルフランの地下迷宮と魔女ノ旅団
+0100D9A005ED6800|327680	 太鼓の達人 Nintendo Switchば～じょん！
+
+C) Removed 800+ UPD titles where an update does not exist.
+
+D) Removed DLC titles that are no longer available:
+
+01002CC003FE7099|Starlink: Battle for Atlas™ Digital Edition|[Unknown DLC]
+0100D9A005ED7099|太鼓の達人 Nintendo Switchば～じょん！|Taiko No Tatsujin Nintendo Switch Version!
+
+E) Removed DEMO titles that are no longer available:
+
+0100679006532000|Project OCTOPATH TRAVELER
+
+F) Added verified titlekeys to the following BASE titles:
+
+010057A00C1F6000|Astebreed
+01006D800A988000|Battlezone Gold Edition
+0100ED700469A000|Deru - The Art of Cooperation
+0100FFA0093E8000|FIFA 19
+010079300AD54000|Full Metal Furies
+01006E400AE2A000|Jeopardy!
+0100A1A00C5D8000|Picture Painting Puzzle 1000!
+010053000B986000|Road Redemption
+010056500AD50000|Rogue Legacy
+01008D700AB14000|The Bug Butcher
+01009DE00B5CC000|Varion
+
+G) Added verified titlekeys to the following DLC titles:
+
+0100FFA0093E9001|FIFA 19|Russian In-Game Commentary]
+0100FFA0093E9002|FIFA 19|Polish In-Game Commentary]
+010015F005C8F001|Tricky Towers|Candy Bricks]
+010015F005C8F002|Tricky Towers|Galaxy Bricks]
+010015F005C8F003|Tricky Towers|Gem Bricks]
+010015F005C8F004|Tricky Towers|Holographic Bricks]
+010015F005C8F005|Tricky Towers|Indie Friends]
+010015F005C8F006|Tricky Towers|Spirit Animal Pack]
