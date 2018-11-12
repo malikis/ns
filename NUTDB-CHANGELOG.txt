@@ -1,50 +1,57 @@
-[NUTDB-CHANGELOG][v82][11.10.18][m22]
+[NUTDB-CHANGELOG][v83][SHOGUN:11.11.18][m22]
 
-A) Added/Replaced VERSION for UPD titles with the latest available VERSION: 
+A) Added the following BASE titles:
 
-01005950022EC800|Blade Strangers            196608
-010070D009FEC800|LEGO® DC Super-Villains    131072
-0100635006C32800|Pankapu                    131072
-010040D00B7CE800|The Swindle                131072
-0100A1C00359C800|TowerFall                  131072
+010061900AFAC000|ACA NEOGEO THRASH RALLY
+010042200BE0C000|Arcade Archives URBAN CHAMPION
+01005BE00BD44000|Bass Pro Shops: The Strike - Championship Edition
+0100E4400C0A2000|Battery Jam
+0100BF400AF38000|Bibi & Tina – Adventures with Horses
+010076F00BD42000|Cabela's: The Hunt - Championship Edition
+010000A00CA78000|Chalk Dash Carnival
+010002300CB0A000|Desktop Soccer
+01009D000AF3A000|Gelly Break
+0100CE600BE26000|GRIP : COMBAT RACING (그립 : 컴뱃 레이싱)
+0100D0500AD30000|Harvest Life
+0100C6D002CB8000|Johnny Turbo's Arcade: Heavy Barrel
+0100F02005D1E000|M.A.C.E. Space Shooter
+0100B2400C67E000|Mars: Chaos Menace
+0100C41009E1A000|Mimpi Dreams
+0100D9C00AA52000|Mother Russia Bleeds
+0100C8700B0B6000|Nidhogg 2
+010038B00BFD4000|Operation Pig
+010002900B75A000|Palm Reading Premium
+010082500350E000|PEACH BALL 閃乱カグラ
+010053400BFA6000|ROCKETSROCKETSROCKETS
+0100A2E00B8EC000|Solitaire
+010099F00B374000|Super Hydorah
+01001C900CAD0000|Sword of the Guardian
+0100A8700BC2A000|This War of Mine: Complete Edition
+01001CA00C514000|Tinboy
+010014900865A000|Toast Time: Smash Up!
+010075400B220000|Wer weiß denn sowas? - Das Spiel
+01002AA00C708000|Word Sudoku by POWGI
+010018900C776000|ゴーストプリズン
+01002C0008E52000|テイルズ オブ ヴェスペリア REMASTER
+01005F200C36E000|ティンバーマン VS エディション
+0100B8100BB8A000|ロスト・イン・ハーモニー -Lost in Harmony-
+01008F300C7B2000|塊魂アンコール
 
-B) Added verified titlekeys to the following BASE titles:
+B) Added the following DLC titles:
 
-01000D1006CEC000|ATOMIK RunGunJumpGun
-010059E00B93C000|Forgotton Anne
-010060400BA9A000|Johnny Turbo's Arcade Heavy Burger
-0100F7300C90E000|Johnny Turbo's Arcade Night Slashers
-01002D70049CA000|Machinarium
-0100F6F00B9E8000|Saboteur!
-010083100B5CA000|Sky Force Anniversary
-0100D9000A930000|Trine Enchanted Edition
-010099700B01A000|Valiant Hearts The Great War
-01003A400C3DA000|YouTube
+0100C3E00ACAB004|Mutant Football League Dynasty Edition|[]
+010082500350F001|PEACH BALL 閃乱カグラ|にゅうにゅうスペシャルDLC4点セット
 
-C) Added verified titlekeys to the following DLC titles:
+C) Added verified titlekeys to the following BASE titles:
 
-010034500641B002|Attack on Titan 2|Additional Episode, Goddess Salvation
-010034500641B003|Attack on Titan 2|Additional Episode A Cornered Rat
-010034500641B004|Attack on Titan 2|Additional Episode Biological Research Scout Mission
-010034500641B005|Attack on Titan 2|Additional Episode White Out
-010034500641B006|Attack on Titan 2|Additional Episode Proof of Expertise
-010034500641B007|Attack on Titan 2|Additional Episode Attack IQ Championship
-010034500641B008|Attack on Titan 2|Additional Episode Singular Target
-010034500641B009|Attack on Titan 2|Additional Episode Attack IQ Championship
-010034500641B00B|Attack on Titan 2|Additional Episode Skill Demonstration
-010034500641B015|Attack on Titan 2|Costume Set Japanese New Year
-010034500641B016|Attack on Titan 2|Costume Set Japanese New Year
-010034500641B017|Attack on Titan 2|Costume Set Japanese New Year
-010034500641B018|Attack on Titan 2|Costume Set Japanese New Year
-010034500641B019|Attack on Titan 2|Costume Set Summer Festival
-010034500641B01A|Attack on Titan 2|Costume Set Summer Festival
-010034500641B01B|Attack on Titan 2|Costume Set Summer Festival
-010034500641B01C|Attack on Titan 2|Costume Set Summer Festival
-010034500641B01D|Attack on Titan 2|Costume Set Halloween
-010034500641B01E|Attack on Titan 2|Costume Set Halloween
-010034500641B01F|Attack on Titan 2|Costume Set Halloween
-010034500641B020|Attack on Titan 2|Costume Set Halloween
-010034500641B021|Attack on Titan 2|Costume Set Christmas
-010034500641B022|Attack on Titan 2|Costume Set Christmas
-010034500641B023|Attack on Titan 2|Costume Set Christmas
-010034500641B024|Attack on Titan 2|Costume Set Christmas
+0100DFF00C5E6000|Noir Chronicles City of Crime
+0100E1B00A46C000|Rage in Peace
+010074500699A000|Timber Tennis Versus
+01002BE00BA82000|Word Puzzles by POWGI
+
+D) Added verified titlekeys to the following DLC titles:
+
+0100C3E00ACAB004|Mutant Football League Dynasty Edition|[]
+01003BC0000A1005|Splatoon 2|Splatoon 2 - Nintendo Switch Online Special Gear
+
+E) Added missing RIGHTSID to over 1000 titles that possessed a titlekey!
