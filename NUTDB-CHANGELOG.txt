@@ -1,47 +1,82 @@
-[NUTDB-CHANGELOG][v86][UPDATED:11.15.18][SHOGUN:11.11.18][m22]
+[NUTDB-CHANGELOG][v87][UPDATED:11.17.18][SHOGUN:11.17.18][m22]
 
-A) Added verified TITLEKEY to 6 BASE titles:
+A) Added the following 47 DLC titles:
 
-010027100BD16000|Crashlands
-0100C41009E1A000|Mimpi Dreams
-0100D9C00AA52000|Mother Russia Bleeds
-010039000B68E000|MY HERO ONE'S JUSTICE
-0100BBD00976C000|Project Highrise Architect's Edition
-0100B4700BDBA000|SOLITAIRE BATTLE ROYAL
+0100B28003441001|Aces of the Luftwaffe - Squadron|Aces of the Luftwaffe Squadron - Nebelgeschwader
+010072E00B36B001|Fairy Tale Puzzles～Magic Objects～|Alice in Wonderland ～The Tea Party～
+0100459009A2B005|GRIP|Nyvoss Hex Pack
+010039000B68F00B|MY HERO ONE'S JUSTICE|MY HERO ONE'S JUSTICE Mission Gale Inasa Yoarashi
+010039000B68F00A|MY HERO ONE'S JUSTICE|MY HERO ONE'S JUSTICE Playable Character Inasa Yoarashi
+010076E009C5F001|Party Hard|Party Hard High Crimes
+01005F900416F1F7|Pic-a-Pix Deluxe|Giant Puzzles 4
+010044500C183002|Sid Meier’s Civilization VI|Civilization VI - Khmer and Indonesia Civilization & Scenario Pack
+010044500C183001|Sid Meier’s Civilization VI|Civilization VI - Nubia Civilization & Scenario Pack
+010027F00AD6D003|SNK HEROINES Tag Team Frenzy|SNK HEROINES Tag Team Frenzy - MissX
+010007C00B509003|SNK Heroines Tag Team Frenzy|SNK Heroines New Character MissX
+0100D6000B52D003|SNK HEROINES Tag Team Frenzy|SNK HEROINES Tag Team Frenzy 新增角色 Miss X
+01005ED00AD0D003|SNKヒロインズ Tag Team Frenzy|SNKヒロインズ 追加キャラクター ミスX
+01002C000B55301E|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin Drum 'n' Fun! Pops Pack Vol 1
+0100CA100489D004|The Escapists 2|The Escapists 2 - Dungeons and Duct Tape
+0100CA100489D002|The Escapists 2|The Escapists 2 - Wicked Ward
+0100CA100489D003|The Escapists 2|The Escapists 2 - Big Top Breakout
+010016A00AEC1274|WARRIORS OROCHI 4|ω-Force 20th Anniversary Concert BGM Pack
+01002E0006A51002|WORK×WORK|WORK×WORK 追加シナリオ「アップルパック」
+01008E9007065019|WorldNeverland - Elnea Kingdom|Set of red furniture and clothes
+0100E8C0046171F7|お絵かきパズル Pic-a-Pix Deluxe|ジャイアントパズルパック4
+0100E0F008E6500B|僕のヒーローアカデミア One's Justice|僕のヒーローアカデミア One's Justice：追加ミッション【レップウ 夜嵐イナサ】
+0100E0F008E6500A|僕のヒーローアカデミア One's Justice|僕のヒーローアカデミア One's Justice：プレイアブルキャラ 士傑高校生 夜嵐イナサ
+0100D9A005ED701F|太鼓の達人 Nintendo Switchば～じょん！|プラチナどんちゃん
+0100D9A005ED701E|太鼓の達人 Nintendo Switchば～じょん！|流行音樂Ｐａｃｋ Ｖｏｌ．１
+0100E8500AD59274|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭパック
+0100E8500AD59270|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「THE WALL OF FATE～戦神～英雄ノ進撃」
+0100E8500AD59273|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「Crush'em All」
+0100E8500AD59272|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「花の都」
+0100E8500AD59271|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「THEME OF OROCHI -REBIRTH MIX-」
+0100E8500AD5926E|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「カシリ」
+0100E8500AD5926F|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「烈火」
+0100E8500AD5926C|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「ゴウエンマ」
+0100E8500AD5926D|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「ヒノマガトリ」
+0100E8500AD5926B|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「鬼討ツモノ」
+0100E8500AD59266|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「川中島」
+0100E8500AD5926A|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「勝機」
+0100E8500AD59269|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「手取川」
+0100E8500AD59268|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「小牧長久手」
+0100E8500AD59267|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「忠勝のテーマ」
+0100E8500AD59265|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「姉川」
+0100E8500AD59262|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「ARENA」
+0100E8500AD59263|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「SLASH IT; THRASH ALL」
+0100E8500AD59260|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「CYCLONIZED TYPHOON」
+0100E8500AD59264|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「GREAT RED SPIRIT」
+0100E8500AD59261|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「SLASH THE DEMON」
+0100E8500AD5925F|無双OROCHI３|「ω-Force」20周年記念ライブＢＧＭ「DYNASTY WARRIORS」
 
-B) Added verified TITLEKEY to 5 DLC titles:
+B) Added verified TITLEKEY to 9 BASE titles:
 
-010039000B68F004|MY HERO ONE'S JUSTICE|我的英雄學院 唯我正義：可操控角色【綠谷出久射擊風格】]
-010039000B68F005|MY HERO ONE'S JUSTICE|我的英雄學院 唯我正義：追加任務【O F A 綠谷出久射擊風格】
-010039000B68F008|MY HERO ONE'S JUSTICE|我的英雄學院 唯我正義：可操控角色【職業英雄 奮進人】
-010039000B68F009|MY HERO ONE'S JUSTICE [我的英雄學院 唯我正義：追加任務【超越我吧 奮進人】
-010007C00B509001|SNK Heroines Tag Team Frenzy|SNK Heroines: New Character "Thief Arthur"
+010014900865a000|Toast Time: Smash Up!
+0100187003a36000|Pokémon™: Let’s Go, Eevee!
+010003f003a34000|Pokémon™: Let’s Go, Pikachu!
+010044500c182000|Sid Meier’s Civilization VI
+010039700ba7e000|Circle of Sumo
+01007b6006092000|MUSYNX
+010099f00b374000|Super Hydorah
+0100cff0048d2000|Milanoir
+010040f00aa9a000|Speed Brawl
 
-C) Added/Replaced latest VERSION to 7 UPD titles:
+C) Added verified TITLEKEY to 4 DLC titles:
 
-0100055007B86800|196608|Late Shift
-0100271004570800|131072|Next Up Hero
-010023900AEE0800|917504|Paladins
-01009D60080B4800|131072|SpiritSphere DX
-0100A7F002830800|458752|VOEZ
-01002E0006A50800|196608|WORK×WORK
-0100C7300772E800|196608|ルフランの地下迷宮と魔女ノ旅団
+010044500c183002|Civilization VI - Khmer and Indonesia Civilization & Scenario Pack
+010044500c183001|Civilization VI - Nubia Civilization & Scenario Pack
+010039000b68f00a|MY HERO ONE'S JUSTICE Playable Character: Inasa Yoarashi
+010039000b68f00b|MY HERO ONE'S JUSTICE Mission: Gale Inasa Yoarashi
 
-D) Removed 4 UPD titles that do not exist.
+D) Replaced latest VERSION to 4 UPD titles:
 
-010056500AD50800|0|Rogue Legacy
-010083100B5CA800|0|Sky Force Anniversary
-010074500699A800|0|Timber Tennis: Versus
-010072000BD32800|0|WORLD OF FINAL FANTASY MAXIMA
+0100751007ADA800|262144|Don't Starve: Nintendo Switch Edition
+0100830008426800|131072|Just Shapes & Beats
+010023900AEE0800|983040|Paladins
+0100B16009C10800|131072|SINNER: Sacrifice for Redemption
 
-E) Removed 2 DLC titles until next SHOGUN update containing relevant metadata:
+E) Pending addition of 2 DLC titles until SHOGUN contains corresponding metadata:
 
 0100C3E00ACAB004|Mutant Football League: Dynasty Edition|?
-01005C600AC69003|Valkyria Chronicles 4|?
-
-F) Pending addition of 4 DLC titles until next SHOGUN update containing relevant metadata:
-
-0100C3E00ACAB004|Mutant Football League: Dynasty Edition|?
-010039000b68f00a|MY HERO ONE'S JUSTICE|?
-010039000b68f00b|MY HERO ONE'S JUSTICE|?
 01005C600AC69003|Valkyria Chronicles 4|?
