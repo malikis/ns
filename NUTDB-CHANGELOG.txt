@@ -1,174 +1,100 @@
-[NUTDB-CHANGELOG][v88][UPDATED:11.18.18][SHOGUN:11.18.18][m22]
+[NUTDB-CHANGELOG][v89][UPDATED:11.21.18][SHOGUN:11.21.18][m22]
 
-Important Note: 
-During this most recent update, METADATA was unavailable for several titles.
-Once missing METADATA become available, NUTDB will reflect it respectively.
-Until then, various fields such as 'name' and 'region' have been temporarily populated with relevant data.
+A) Added the following 33 BASE titles:
 
-A) Added the following 43 BASE titles:
+01009DC00C08E000|√Letter ルートレター Last Answer
+0100E7400C7C4000|Abyss
+010074500BBC4000|Bendy and the Ink Machine™
+0100D4C00C6C0000|Bendy and the Ink Machine™
+010004300C33A000|Crimson Keep
+010044000CBCA000|Dexteritrip
+0100B8700BD14000|Energy Cycle Edge
+010099C00BD18000|Hand of Fate 2 (ハンドオブフェイト2)
+0100F9700BE96000|Hyper Sentinel
+01007C000C314000|kuso
+010023F00B5EA000|LITTLE FRIENDS -DOGS & CATS-（リトルフレンズ　ドッグス＆キャッツ）
+0100F8C00C21C000|Omega Strike
+01009BB00AD62000|Screencheat: Unplugged
+01005A300C9F6000|SEGA AGES Phantasy Star
+01001B600BC32000|Stardust Galaxy Warriors: Stellar Climax
+010000300B4EE000|STUMP
+01009BC00C38A000|The Binding of Isaac: Rebirth
+0100F3400A432000|Toki
+010029D00AFD0000|アケアカNEOGEO キング・オブ・ザ・モンスターズ2
+010080D00816E000|くにおくん ザ・ワールド クラシックスコレクション
+0100CEB00C624000|げっし～ず　がじがじなかまをそだてよう
+0100F8200C5F0000|すみっコぐらし　あつまれ！すみっコタウン
+01003C300C66A000|チョークダッシュカーニバル
+010050000705E000|ドラゴンクエストビルダーズ２　破壊神シドーとからっぽの島
+010097000C394000|ドント・ノック・トワイス
+0100AB400C5A4000|ネコ・トモ
+010094A00BEF8000|バトルプリンセス マデリーン
+010013300CD5A000|ボクらの消しゴム落とし
+010040E00C2D2000|マレニア国の冒険酒場 ～パティアと腹ペコの神～
+0100A7D008392000|ライバル・メガガン
+010022E00C9D8000|リプキス
+0100BBA00B23E000|吉原彼岸花 久遠の契り
+01008B400BE5E000|返校 -Detention-
 
-0100B2C00682E000|99Vidas - Definitive Edition
-0100C1300BBC6000|ABZÛ
-010047D00AFD4000|ACA NEOGEO STAKES WINNER 2
-010053100B0EA000|Akihabara - Feel the Rhythm Remixed
+B) Added the following 6 DLC titles:
+
+010050000705F002|ドラゴンクエストビルダーズ２　破壊神シドーとからっぽの島|「スライムタワー」のレシピ
+010050000705F003|ドラゴンクエストビルダーズ２　破壊神シドーとからっぽの島|「勇者たちのドットかざり」のレシピセット
+010050000705F008|ドラゴンクエストビルダーズ２　破壊神シドーとからっぽの島|「紋章ブロック・水」のレシピ
+010099C00BD19002|Hand of Fate 2 (ハンドオブフェイト2)|Hand of Fate 2 - 従者と暗獣
+010099C00BD19001|Hand of Fate 2 (ハンドオブフェイト2)|Hand of Fate 2 - 辺境地と異人
+01005C600AC69005|Valkyria Chronicles 4|The Two Valkyria
+
+C) Added verified TITLEKEY to 24 BASE titles:
+
+01005DD00BE08000|Arcade Archives ALPHA MISSION
 0100426001DE4000|Arcade Archives Atomic Robo-Kid
-0100C4D0093EA000|Battle Princess Madelyn
-0100E6900C9F0000|Castle of Heart
-010004400B28A000|Cattails
-0100CF800C810000|Coffee Crisis
+0100D3F009810000|Arcade Archives Ninja-Kid II
+010042200BE0C000|Arcade Archives URBAN CHAMPION
+0100F8900ADC8000|Beekyr Reloaded
+010074500BBC4000|Bendy and the Ink Machine™
 0100A7000BD28000|Coloring Book
-01004F200CB08000|Desktop Soccer
-01003A400BF8C000|Destruction
-0100E0300BFCA000|Frag doch mal die Maus!
-010000300C79C000|GensokyoDefenders
-010025900BE90000|Hyper Sentinel
-01000E200C8D4000|Hyperide Vector Raid
-010086100BD3C000|I Am The Hero
-0100D7000C2C6000|Katamari Damacy REROLL
-010014B00BB04000|Mahjong
-0100C1400BD6A000|Monica e a Guarda dos Coelhos
-01005EF00B4BC000|Ms Splosion Man
-010034300BFC4000|My Riding Stables - Life with Horses
-010042300C4F6000|Nightshade／百花百狼
-0100416008A12000|Onimusha Warlords
-0100D5400BD90000|Operación Triunfo 2017
-01002A300BDE2000|Panda Hero
-010069300C90A000|Peace, Death! Complete Edition
-0100E2300C4C4000|Please, Don't Touch Anything
-0100E5400BE64000|R-Type Dimensions EX
-0100CD100BEA4000|ROCK BOSHERS DX Director's Cut
-01005A600C318000|SMITE
-010025C007892000|Soap Dodgem
-01004DD00C87A000|Steamburg
-010025000CBEA000|Swamp Defense 2
-0100F6200CBE0000|Teddy the Wanderer Kayaking
-010098800A1E4000|The First Tree
-010058100C80A000|WAKU WAKU SWEETS
+0100F9700BE96000|Hyper Sentinel
+0100C6D002CB8000|Johnny Turbo's Arcade: Heavy Barrel
+010075600AE96000|Just Dance® 2019
+01007C000C314000|kuso
+0100B2400C67E000|Mars: Chaos Menace
+01001FF00B544000|NBA 2K19 20th Anniversary Edition
+01003B900AE12000|Oh My Godheads: Party Edition
+010040D00BCF4000|Storm Boy
+010049E00BA34000|Townsmen
 0100FEE00A64E000|Warframe
-01005A100B314000|Windstorm
-01002C9005F36000|Youtubers Life OMG Edition
-0100EE200B764000|Zeus Quests Remastered
-010019200C620000|ギア・クラブ アンリミテッド2
-01008C300B624000|上海 Refresh
+010012F00B6F2000|Yomawari: The Long Night Collection
+0100CEB00C624000|げっし～ず　がじがじなかまをそだてよう
+0100F8200C5F0000|すみっコぐらし　あつまれ！すみっコタウン
+01003C300C66A000|チョークダッシュカーニバル
+0100AB400C5A4000|ネコ・トモ
+010013300CD5A000|ボクらの消しゴム落とし
+01008B400BE5E000|返校 -Detention-
 
-B) Added the following 11 DEMO titles:
+D) Added verified TITLEKEY to 7 DLC titles:
 
-010023500C2F0000|99Vidas - Definitive Edition
-0100CA300C5BA000|Demetrios - The BIG Cynical Adventure
-010044200BC42000|Detention
-01006A900C686000|Just Dance® 2019
-0100D9600BA8E000|Just Shapes & Beats
-010043700C102000|Labyrinth of Refrain: Coven of Dusk
-010097000C398000|Ninjin: Clash of Carrots
-01001E600C790000|PLANET ALPHA
-01001F200A536000|TETRA's Escape
-010020100B768000|True Fear: Forsaken Souls - Part 1
-0100FC900CAE4000|Word Sudoku by POWGI
+0100953009DF9007|Let's Sing 2019|Let's Sing 2019 Best of 80's Vol. 2 Song Pack
+0100953009DF9006|Let's Sing 2019|Let's Sing 2019 Best of 90's Song Pack
+0100CA100489D003|The Escapists 2|The Escapists 2 - Big Top Breakout
+0100CA100489D004|The Escapists 2|The Escapists 2 - Dungeons and Duct Tape
+0100CA100489D001|The Escapists 2|The Escapists 2 - The Glorious Regime
+0100CA100489D002|The Escapists 2|The Escapists 2 - Wicked Ward
+01005C600AC69005|Valkyria Chronicles 4|The Two Valkyria
 
-C) Added the following 56 DLC titles:
+E) Replaced latest VERSION to 14 UPD titles:
 
-0100A7000BD29001|Coloring Book|36 new drawings (Cats, Ocean, Farm, Girls Room, Construction Site and Dinosaurs)
-0100375009F81001|Let's Sing 11|Let's Sing 11 Super Éxitos
-0100375009F81002|Let's Sing 11|Let's Sing 11 Lo mejor de los 80 Vol. 1
-0100375009F81003|Let's Sing 11|Let's Sing 11 Clásicos para fiestas Vol. 2
-0100375009F81004|Let's Sing 11|Let's Sing 11 Lo mejor de los 80 Vol. 1
-0100375009F81005|Let's Sing 11|Let's Sing 11 Éxitos legendarios
-0100375009F81006|Let's Sing 11|Let's Sing 11 Lo mejor de los 90
-0100375009F81007|Let's Sing 11|Let's Sing 11 Lo mejor de los 80 Vol. 2
-0100953009DF9001|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Party Classics Vol. 1 Song Pack
-0100953009DF9002|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Best of 80's Vol. 1 Song Pack
-0100953009DF9003|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Party Classics Vol. 2 Song Pack
-0100953009DF9004|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Chart Hits Song Pack
-0100953009DF9005|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Legendary Hits Song Pack
-0100953009DF9006|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Best of 90's Song Pack
-0100953009DF9007|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Best of 80's Vol. 2 Song Pack
-0100F5C009F83001|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Party Classics Vol. 1 Song Pack
-0100F5C009F83002|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Best of 80's Vol. 1 Song Pack
-0100F5C009F83003|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Chart Hits Song Pack
-0100F5C009F83004|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Party Classics Vol. 2 Song Pack
-0100F5C009F83005|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Legendary Hits Song Pack
-0100F5C009F83006|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Best of 90's Song Pack
-0100F5C009F83007|Let's Sing 2019 Hits Français et Internationaux|Let's Sing 2019 Hits Français et Internationaux Best of 80's Vol. 2 Song Pack
-01003E6009F7F001|Let's Sing 2019 mit deutschen Hits|Let's Sing 2019 mit deutschen Hits Party Classics Vol. 1 Song Pack
-01003E6009F7F002|Let's Sing 2019 mit deutschen Hits|Let's Sing 2019 mit deutschen Hits Best of 80's Vol. 1 Song Pack
-01003E6009F7F003|Let's Sing 2019 mit deutschen Hits|Let's Sing 2019 mit deutschen Hits Chart Hits Song Pack
-01003E6009F7F004|Let's Sing 2019 mit deutschen Hits|Let's Sing 2019 mit deutschen Hits Party Classics Vol. 2 Song Pack
-01003E6009F7F005|Let's Sing 2019 mit deutschen Hits|Let's Sing 2019 mit deutschen Hits Legendary Hits Song Pack
-01003E6009F7F006|Let's Sing 2019 mit deutschen Hits|Let's Sing 2019 mit deutschen Hits Best of 90's Song Pack
-01003E6009F7F007|Let's Sing 2019 mit deutschen Hits|Let's Sing 2019 mit deutschen Hits Best of 80's Vol. 2 Song Pack
-0100C3E00ACAB004|Mutant Football League Dynasty Edition|Purple Oil Pack
-0100BBD00976D001|Project Highrise Architect's Edition|Project Highrise: Architect's Edition - Modern Design
-01002C000B55300D|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! STUDIO GHIBLI Pack
-01002C000B55300E|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! STUDIO GHIBLI Pack
-01002C000B55300F|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! STUDIO GHIBLI Pack
-01002C000B553010|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! STUDIO GHIBLI Pack
-01002C000B553012|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! VOCALOID™ Music Pack
-01002C000B553013|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! VOCALOID™ Music Pack
-01002C000B553014|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! VOCALOID™ Music Pack
-01002C000B553015|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! VOCALOID™ Music Pack
-01002C000B553016|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! VOCALOID™ Music Pack
-01002C000B553019|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! Touhou Project Arrangements Pack
-01002C000B55301A|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! Jupiter
-01002C000B55301C|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! Pops Pack Vol. 1
-01002C000B55301D|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum 'n' Fun! Pops Pack Vol. 1
-01002C000B55301F|Taiko no Tatsujin Drum 'n' Fun!|Taiko no Tatsujin: Drum ‘n’ Fun!
-0100092006815001|Tennis World Tour|Tennis World Tour - Agassi Pack
-0100092006815002|Tennis World Tour|Tennis World Tour - John McEnroe
-0100092006815007|Tennis World Tour|Tennis World Tour - Skill Cards Pack
-0100092006815008|Tennis World Tour|Tennis World Tour - Coach Sophie Walker
-01005C600AC69003|Valkyria Chronicles 4|A Captainless Squad
-010075400B221001|Wer weiß denn sowas - Das Spiel|Wer weiß denn sowas - 26 Shows
-01002E0006A51001|WORK×WORK|WORK×WORK　追加シナリオ「アップルパック」
-01008E9007065022|WorldNeverland - Elnea Kingdom|Set of Nalulu Kingdom outfits
-01005B200725D00E|ギア・クラブ アンリミテッド|ギア・クラブ アンリミテッド スーパーカーパック2
-0100D9A005ED701C|太鼓の達人 Nintendo Switchば～じょん！|팝 Ｐａｃｋ Ｖｏｌ．１
-0100D9A005ED701D|太鼓の達人 Nintendo Switchば～じょん！|팝 Ｐａｃｋ Ｖｏｌ．１
-
-D) Added verified TITLEKEY to 3 BASE titles:
-
-01005E600AB64000|Disease -Hidden Object-
-01001B80099F6000|Dracula's Legacy
-01009CC00BD6E000|Tangrams Deluxe
-
-E) Added verified TITLEKEY to 2 DLC titles:
-
-0100C3E00ACAB004|Mutant Football League Dynasty Edition|Purple Oil Pack
-01005C600AC69003|Valkyria Chronicles 4|A Captainless Squad
-
-F) Replaced latest VERSION to 34 UPD titles:
-
-01002BB00C01E800|65536|Animated Jigsaws Japanese Women
-01008EC006BE2800|65536|Art of Balance
-010050400BD38800|65536|Asterix & Obelix XXL 2
-010022B00ACE6800|131072|BLACK BIRD
-010000A00CA78800|65536|Chalk Dash Carnival
-010068500CA7A800|65536|Chalk Dash Carnival
-01001B300B9BE800|65536|Diablo III Eternal Collection
-01004B100AF18800|1072|Disgaea 1 Complete
-01001B80099F6800|131072|Dracula's Legacy
-01004B000C214800|65536|EVE burst error R （イヴ バーストエラー アール）
-010072E00B36A800|65536|Fairy Tale Puzzles～Magic Objects～
-010060E009062800|262144|GUILT BATTLE ARENA
-0100BB600C096800|65536|Hardway Party
-01009EA00B714800|65536|Horizon Chase Turbo
-01002D4007AE0800|65536|Mega Man Legacy Collection
-01005EF00B4BC800|65536|Ms Splosion Man
-01002A300BDE2800|131072|Panda Hero
-010082500350E800|65536|PEACH BALL 閃乱カグラ
-010033C00985E800|65536|RPGツクールMV Trinity
-01005A600C318800|65536|SMITE
-0100FF700B96C800|65536|Snake vs Snake
-01004AB00AEF8800|65536|SNK 40th ANNIVERSARY COLLECTION
-0100BA300C39A800|65536|Spencer
-01009D200952E800|65536|Spintires MudRunner - American Wilds
-01001FF00BEE8800|65536|The Shapeshifting Detective
-0100A8700BC2A800|65536|This War of Mine Complete Edition
-0100B6D00C2DE800|131072|Tied Together
-0100BCA00843A800|65536|Trailblazers
-0100D9000A930800|65536|Trine Enchanted Edition
-0100FEE00A64E800|131072|Warframe
-01005A100B314800|196608|Windstorm
-01005E600C8FA800|65536|WILL 素晴らしき世界
-01002C9005F36800|65536|Youtubers Life OMG Edition
-01008C300B624800|65536|上海 Refresh
-0100C0E008340800|65536|戦国キャノン for Nintendo Switch
+0100DF9005E7A800|393216|Floor Kids
+01000060085D2800|131072|A Hole New World
+0100FF1004D56800|196608|Ace of Seafood
+010088C0092FE800|131072|Carnival Games®
+010039700BA7E800|131072|Circle of Sumo
+0100091008272800|131072|Mini Metro
+01001AE00C1B2800|196608|NBA 2K Playgrounds 2
+01001FF00B544800|262144|NBA 2K19 20th Anniversary Edition
+010029200AB1C800|196608|Prison Architect: Nintendo Switch™ Edition
+01002CC003FE6800|131072|Starlink: Battle for Atlas™ Digital Edition
+0100DC300AC78800|196608|The Messenger
+0100FEE00A64E800|196608|Warframe
+0100FA00082BE800|131072|ネコ・トモ
+01000E600B05C800|131072|魔界戰記DISGAEA Refine
