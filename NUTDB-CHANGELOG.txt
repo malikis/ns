@@ -1,100 +1,46 @@
-[NUTDB-CHANGELOG][v89][UPDATED:11.21.18][SHOGUN:11.21.18][m22]
+[NUTDB-CHANGELOG][v90][UPDATED:11.25.18][SHOGUN:11.21.18][m22]
 
-A) Added the following 33 BASE titles:
+A) Corrected RIGHTSID to 1 BASE title:
 
-01009DC00C08E000|√Letter ルートレター Last Answer
-0100E7400C7C4000|Abyss
-010074500BBC4000|Bendy and the Ink Machine™
-0100D4C00C6C0000|Bendy and the Ink Machine™
-010004300C33A000|Crimson Keep
-010044000CBCA000|Dexteritrip
-0100B8700BD14000|Energy Cycle Edge
-010099C00BD18000|Hand of Fate 2 (ハンドオブフェイト2)
-0100F9700BE96000|Hyper Sentinel
-01007C000C314000|kuso
-010023F00B5EA000|LITTLE FRIENDS -DOGS & CATS-（リトルフレンズ　ドッグス＆キャッツ）
-0100F8C00C21C000|Omega Strike
-01009BB00AD62000|Screencheat: Unplugged
-01005A300C9F6000|SEGA AGES Phantasy Star
-01001B600BC32000|Stardust Galaxy Warriors: Stellar Climax
-010000300B4EE000|STUMP
-01009BC00C38A000|The Binding of Isaac: Rebirth
-0100F3400A432000|Toki
-010029D00AFD0000|アケアカNEOGEO キング・オブ・ザ・モンスターズ2
-010080D00816E000|くにおくん ザ・ワールド クラシックスコレクション
-0100CEB00C624000|げっし～ず　がじがじなかまをそだてよう
-0100F8200C5F0000|すみっコぐらし　あつまれ！すみっコタウン
-01003C300C66A000|チョークダッシュカーニバル
-010050000705E000|ドラゴンクエストビルダーズ２　破壊神シドーとからっぽの島
-010097000C394000|ドント・ノック・トワイス
-0100AB400C5A4000|ネコ・トモ
-010094A00BEF8000|バトルプリンセス マデリーン
-010013300CD5A000|ボクらの消しゴム落とし
-010040E00C2D2000|マレニア国の冒険酒場 ～パティアと腹ペコの神～
-0100A7D008392000|ライバル・メガガン
-010022E00C9D8000|リプキス
-0100BBA00B23E000|吉原彼岸花 久遠の契り
-01008B400BE5E000|返校 -Detention-
+0100C9F009F7A000|Xenoblade Chronicles 2 Torna The Golden Country
 
-B) Added the following 6 DLC titles:
+B) Corrected RIGHTSID to 9 DLC titles:
 
-010050000705F002|ドラゴンクエストビルダーズ２　破壊神シドーとからっぽの島|「スライムタワー」のレシピ
-010050000705F003|ドラゴンクエストビルダーズ２　破壊神シドーとからっぽの島|「勇者たちのドットかざり」のレシピセット
-010050000705F008|ドラゴンクエストビルダーズ２　破壊神シドーとからっぽの島|「紋章ブロック・水」のレシピ
-010099C00BD19002|Hand of Fate 2 (ハンドオブフェイト2)|Hand of Fate 2 - 従者と暗獣
-010099C00BD19001|Hand of Fate 2 (ハンドオブフェイト2)|Hand of Fate 2 - 辺境地と異人
-01005C600AC69005|Valkyria Chronicles 4|The Two Valkyria
+0100E95004039001|Xenoblade Chronicles 2|Xenoblade Chronicles 2 Torna The Golden Country
+0100E95004039002|Xenoblade Chronicles 2|New Quests Pack
+0100E95004039003|Xenoblade Chronicles 2|New Rare Blade Pack
+0100E95004039004|Xenoblade Chronicles 2|New Challenge Mode Pack
+0100E95004039006|Xenoblade Chronicles 2|Xenoblade Chronicles 2 – My Nintendo Bonus Items
+0100F3400332D001|Xenoblade2 ゼノブレイド2|オリジナルストーリー「黄金の国イーラ」
+0100F3400332D002|Xenoblade2 ゼノブレイド2|クエストパック
+0100F3400332D003|Xenoblade2 ゼノブレイド2|レアブレイド
+0100F3400332D004|Xenoblade2 ゼノブレイド2|チャレンジバトルモード
 
-C) Added verified TITLEKEY to 24 BASE titles:
+C) Added verified TITLEKEY to 13 BASE titles:
 
-01005DD00BE08000|Arcade Archives ALPHA MISSION
-0100426001DE4000|Arcade Archives Atomic Robo-Kid
-0100D3F009810000|Arcade Archives Ninja-Kid II
-010042200BE0C000|Arcade Archives URBAN CHAMPION
-0100F8900ADC8000|Beekyr Reloaded
-010074500BBC4000|Bendy and the Ink Machine™
-0100A7000BD28000|Coloring Book
-0100F9700BE96000|Hyper Sentinel
-0100C6D002CB8000|Johnny Turbo's Arcade: Heavy Barrel
-010075600AE96000|Just Dance® 2019
-01007C000C314000|kuso
-0100B2400C67E000|Mars: Chaos Menace
-01001FF00B544000|NBA 2K19 20th Anniversary Edition
-01003B900AE12000|Oh My Godheads: Party Edition
-010040D00BCF4000|Storm Boy
-010049E00BA34000|Townsmen
-0100FEE00A64E000|Warframe
-010012F00B6F2000|Yomawari: The Long Night Collection
-0100CEB00C624000|げっし～ず　がじがじなかまをそだてよう
-0100F8200C5F0000|すみっコぐらし　あつまれ！すみっコタウン
-01003C300C66A000|チョークダッシュカーニバル
-0100AB400C5A4000|ネコ・トモ
-010013300CD5A000|ボクらの消しゴム落とし
-01008B400BE5E000|返校 -Detention-
+010021F00C1C0000|Adventures of Bertram Fiddle Episode 2: A Bleaker Predicklement
+010000F00BF68000|Black and White Bushido
+0100A9900C380000|Energy Cycle Edge
+010011400AF8E000|Julie's Sweets
+01005EF00B4BC000|Ms. Splosion Man
+0100C8700B0B6000|Nidhogg 2
+010076E009C5E000|Party Hard
+0100E2300C4C4000|Please, Don't Touch Anything
+01004DD00C87A000|Steamburg
+01002DD004972000|Sumer
+0100AF100CAF6000|リプキス
+010042600C418000|レイジングループ
+010065900CB3A000|塊魂アンコール
 
-D) Added verified TITLEKEY to 7 DLC titles:
+D) Added verified TITLEKEY to 1 DLC title:
 
-0100953009DF9007|Let's Sing 2019|Let's Sing 2019 Best of 80's Vol. 2 Song Pack
-0100953009DF9006|Let's Sing 2019|Let's Sing 2019 Best of 90's Song Pack
-0100CA100489D003|The Escapists 2|The Escapists 2 - Big Top Breakout
-0100CA100489D004|The Escapists 2|The Escapists 2 - Dungeons and Duct Tape
-0100CA100489D001|The Escapists 2|The Escapists 2 - The Glorious Regime
-0100CA100489D002|The Escapists 2|The Escapists 2 - Wicked Ward
-01005C600AC69005|Valkyria Chronicles 4|The Two Valkyria
+010076E009C5F001|Party Hard|Party Hard: High Crimes
 
-E) Replaced latest VERSION to 14 UPD titles:
+E) Added/Replaced latest VERSION to 6 UPD titles:
 
-0100DF9005E7A800|393216|Floor Kids
-01000060085D2800|131072|A Hole New World
-0100FF1004D56800|196608|Ace of Seafood
-010088C0092FE800|131072|Carnival Games®
-010039700BA7E800|131072|Circle of Sumo
-0100091008272800|131072|Mini Metro
-01001AE00C1B2800|196608|NBA 2K Playgrounds 2
-01001FF00B544800|262144|NBA 2K19 20th Anniversary Edition
-010029200AB1C800|196608|Prison Architect: Nintendo Switch™ Edition
-01002CC003FE6800|131072|Starlink: Battle for Atlas™ Digital Edition
-0100DC300AC78800|196608|The Messenger
-0100FEE00A64E800|196608|Warframe
-0100FA00082BE800|131072|ネコ・トモ
-01000E600B05C800|131072|魔界戰記DISGAEA Refine
+0100D4C00C6C0800|65536|Bendy and the Ink Machine™
+010074500BBC4800|65536|Bendy and the Ink Machine™
+0100F0B0081DA800|262144|Dawn of the Breakers
+010034C007610800|131072|Ostwind - Das Spiel
+01001AE005166800|196608|Worms W.M.D
+01004EC00A2D8800|327680|ドタバタ調理アクション IT系ラーメン どらす
